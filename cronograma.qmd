@@ -1,0 +1,176 @@
+---
+title: "Cronograma / Materiais"
+---
+
+<div class="table-responsive">
+
+<table class="cronograma-table">
+
+<thead>
+<tr>
+<th>Aula / Evento</th>
+<th>Data</th>
+<th>Conteúdo</th>
+<th>Slides</th>
+<th>Notebook</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr class="evento">
+<td>Congresso Acadêmico</td>
+<td>10/08/2026</td>
+<td>XII Congresso Acadêmico Unifesp</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 1</td>
+<td>17/08/2026</td>
+<td>Modelagem com Equações Diferenciais</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 2</td>
+<td>24/08/2026</td>
+<td>Campos de Direções e Método de Euler</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 3</td>
+<td>31/08/2026</td>
+<td>Campos de Direções e Método de Euler</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="evento">
+<td>Feriado</td>
+<td>07/09/2026</td>
+<td>Independência do Brasil</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 4</td>
+<td>14/09/2026</td>
+<td>Equações Separáveis</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 5</td>
+<td>21/09/2026</td>
+<td>Modelos para o Crescimento Populacional</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 6</td>
+<td>28/09/2026</td>
+<td>Equações Lineares</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="prova">
+<td>Prova 1</td>
+<td>05/10/2026</td>
+<td>Avaliação Individual</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="evento">
+<td>Feriado</td>
+<td>12/10/2026</td>
+<td>Nossa Senhora Aparecida</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 7</td>
+<td>19/10/2026</td>
+<td>Sistemas Predador-Presa</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 8</td>
+<td>26/10/2026</td>
+<td>Sistemas Predador-Presa</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="evento">
+<td>Feriado</td>
+<td>02/11/2026</td>
+<td>Finados</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="aula">
+<td>Aula 9</td>
+<td>09/11/2026</td>
+<td>Equações Lineares de Segunda Ordem</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 10</td>
+<td>16/11/2026</td>
+<td>Equações Lineares Não Homogêneas</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 11</td>
+<td>23/11/2026</td>
+<td>Aplicações de Equações Diferenciais de Segunda Ordem</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="aula">
+<td>Aula 12</td>
+<td>30/11/2026</td>
+<td>Aplicações de Equações Diferenciais de Segunda Ordem</td>
+<td><span class="badge-em-breve">Em breve</span></td>
+<td><span class="badge-em-breve">Em breve</span></td>
+</tr>
+
+<tr class="prova">
+<td>Prova 2</td>
+<td>07/12/2026</td>
+<td>Avaliação Individual</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr class="exame">
+<td>Exame</td>
+<td>14/12/2026</td>
+<td>Exame Final</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>

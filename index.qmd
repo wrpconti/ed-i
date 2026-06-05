@@ -1,0 +1,23 @@
+---
+title: "UC 10783 - EQUAÇÕES DIFERENCIAIS I"
+---
+
+## Sobre a Unidade Curricular (UC)
+
+As equações diferenciais desempenham um papel central na modelagem matemática de fenômenos naturais, tecnológicos e sociais. Nesta UC serão estudados métodos analíticos e numéricos para a resolução de equações diferenciais ordinárias e suas aplicações em problemas provenientes da Biologia, Química, Física, Engenharia e outras áreas.
+
+::: {.callout-note}
+## Informações da oferta
+
+**Horário:** Segundas-feiras, das 16h00 às 18h00 (Vespertino), e das 21h00 às 23h00 (Noturno).
+
+**Local:** *Campus* Baixada Santista – Edifício Acadêmico II (Rua Carvalho de Mendonça, 144), sala 2XX.
+
+**Docente Responsável:** William R. P. Conti (wrpconti@unifesp.br).
+:::
+
+::: {.callout-tip}
+## Informação complementar
+
+As listas de exercícios e as notas serão disponibilizadas no Ambiente Virtual de Aprendizagem (AVA) **Moodle**.
+:::
