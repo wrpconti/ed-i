@@ -89,7 +89,7 @@
    Hover
    ========================================================== */
 
-.cronograma-table tbody tr:hover {
+.aula:hover {
   background-color: #eef6ff;
 }
 
@@ -139,4 +139,23 @@
 .callout.callout-tip .callout-body {
   font-size: 1.05rem;
   line-height: 1.6;
+}
+
+/* ==========================================================
+   Links dos materiais
+   ========================================================== */
+
+.cronograma-table a {
+  text-decoration: none;
+}
+
+.cronograma-table a:hover {
+  text-decoration: none;
+}
+
+/* Efeito sutil ao passar o mouse */
+
+.cronograma-table a:hover .badge-pdf,
+.cronograma-table a:hover .badge-notebook {
+  opacity: 0.85;
 }
