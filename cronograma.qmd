@@ -31,7 +31,7 @@ title: "Cronograma / Materiais"
 <td>17/08/2026</td>
 <td>Modelagem com Equações Diferenciais. (9.1)</td>
 <td>
-<a href="slides/ed-i_secao-1.pdf" target="_blank">
+<a href="slides/ed-i_aula-1.pdf" target="_blank">
 <span class="badge-pdf">PDF</span>
 </a>
 </td>
