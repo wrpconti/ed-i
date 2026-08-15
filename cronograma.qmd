@@ -55,7 +55,11 @@ title: "Cronograma / Materiais"
 <td>31/08/2026</td>
 <td>Campos de Direções e Método de Euler. (9.2)</td>
 <td>—</td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="notebooks/ed-i_aula-3.ipynb" target="_blank">
+<span class="badge-notebook">IPYNB</span>
+</a>
+</td>
 </tr>
 
 <tr class="evento">
