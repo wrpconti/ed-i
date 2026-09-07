@@ -74,8 +74,12 @@ title: "Cronograma / Materiais"
 <td>Aula 4</td>
 <td>14/09/2026</td>
 <td>Equações Separáveis. (9.3)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/ed-i_aula-4.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="aula">
