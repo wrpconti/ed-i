@@ -86,7 +86,11 @@ title: "Cronograma / Materiais"
 <td>Aula 5</td>
 <td>21/09/2026</td>
 <td>Modelos para o Crescimento Populacional. (9.4)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/ed-i_aula-5.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
 <td><span class="badge-em-breve">Em breve</span></td>
 </tr>
 
