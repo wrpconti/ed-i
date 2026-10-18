@@ -130,16 +130,24 @@ title: "Cronograma / Materiais"
 <td>Aula 7</td>
 <td>19/10/2026</td>
 <td>Sistemas Predador-Presa. (9.6)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>
+<a href="slides/ed-i_aula-7.pdf" target="_blank">
+<span class="badge-pdf">PDF</span>
+</a>
+</td>
+<td>—</td>
 </tr>
 
 <tr class="aula">
 <td>Aula 8</td>
 <td>26/10/2026</td>
 <td>Sistemas Predador-Presa. (9.6)</td>
-<td><span class="badge-em-breve">Em breve</span></td>
-<td><span class="badge-em-breve">Em breve</span></td>
+<td>—</td>
+<td>
+<a href="notebooks/ed-i_aula-8.ipynb" target="_blank">
+<span class="badge-notebook">IPYNB</span>
+</a>
+</td>
 </tr>
 
 <tr class="evento">
